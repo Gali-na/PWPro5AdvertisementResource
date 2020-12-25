@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HWPro5JSTLAdvertisementResource:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>HWPro5JSTLAdvertisementResource</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="HWPro5JSTLAdvertisementResource-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="HWPro5JSTLAdvertisementResource:war exploded" />
+    </root>
+  </artifact>
+</component>
